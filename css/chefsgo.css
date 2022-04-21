@@ -1,0 +1,5 @@
+.chefsgo {
+	position: fixed; width: 100vh; height: 100vh;
+	text-align: center; line-height: 100vh;
+	color: #fff; background: #005eef;
+}
