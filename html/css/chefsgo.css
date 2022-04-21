@@ -1,0 +1,6 @@
+.chefsgo {
+	position: fixed; width: 100vw; height: 100vh;
+	text-align: center; line-height: 100vh;
+	color: #fff; background: #005eef;
+	font-size: 32px; font-weight: 900;
+}
